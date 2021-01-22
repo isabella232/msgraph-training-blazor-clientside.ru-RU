@@ -8,8 +8,8 @@ ms.locfileid: "49584660"
 ---
 <!-- markdownlint-disable MD002 MD041 -->
 
-Вы выполнили руководство по Блазор веб — Microsoft Graph. Теперь, когда у вас есть рабочее приложение, вызывающее Microsoft Graph, вы можете поэкспериментировать и добавить новые функции. Посетите страницу [Обзор Microsoft Graph](/graph/overview) , чтобы просмотреть все данные, к которым можно получить доступ с помощью Microsoft Graph.
+Вы завершили руководство По Microsoft Graph для ВебКассембли. Теперь, когда у вас есть рабочее приложение, которое вызывает Microsoft Graph, вы можете поэкспериментировать и добавить новые функции. Посетите обзор [Microsoft Graph,](/graph/overview) чтобы увидеть все данные, к ним можно получить доступ с помощью Microsoft Graph.
 
 ## <a name="feedback"></a>Отзывы
 
-Сообщите о нем в [репозиторий GitHub](https://github.com/microsoftgraph/msgraph-training-blazor-clientside).
+Поделитесь с этим учебником отзывами в [репозитории GitHub.](https://github.com/microsoftgraph/msgraph-training-blazor-clientside)
